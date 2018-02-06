@@ -23,9 +23,9 @@ plugins: [
 ]
 ```
 
-Then check your asserts fold, there should have an `modules-manifest.json`
+Then check your asserts folder, there should have an `modules-manifest.json`
 
 ```sh
-- your-output-fold
+- your-output-folder
   - modules-manifest.json
 ```
