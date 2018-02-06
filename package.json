@@ -1,0 +1,23 @@
+{
+  "name": "webpack-modules-manifest-plugin",
+  "version": "0.0.1",
+  "description": "generate file contain all bundled module.",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrKou47/webpack-modules-manifest-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "module",
+    "manifest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrKou47/webpack-modules-manifest-plugin/issues"
+  },
+  "homepage": "https://github.com/MrKou47/webpack-modules-manifest-plugin#readme"
+}
